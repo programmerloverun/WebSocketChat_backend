@@ -1,4 +1,4 @@
-package com.leo.websocketdemo.websocket;
+package com.leo.websocketdemo.websocket.pojo;
 
 /**
  * 用于封装浏览器发送给服务端的消息数据

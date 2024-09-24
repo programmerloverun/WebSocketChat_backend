@@ -1,4 +1,4 @@
-package cn.edu.scau.vo;
+package com.leo.websocketdemo.pojo.vo;
 
 import java.io.Serializable;
 

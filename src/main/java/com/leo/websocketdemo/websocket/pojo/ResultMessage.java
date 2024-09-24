@@ -1,4 +1,4 @@
-package com.leo.websocketdemo.websocket;
+package com.leo.websocketdemo.websocket.pojo;
 
 
 /**

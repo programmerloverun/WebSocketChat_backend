@@ -1,4 +1,4 @@
-package cn.edu.scau.pojo;
+package com.leo.websocketdemo.pojo.model;
 
 
 public class User {

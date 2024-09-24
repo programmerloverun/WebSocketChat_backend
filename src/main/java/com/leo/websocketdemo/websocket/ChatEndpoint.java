@@ -1,10 +1,11 @@
-package com.leo.websocketdemo.config;
+package com.leo.websocketdemo.websocket;
 
 
 
 import com.alibaba.fastjson2.JSON;
+import com.leo.websocketdemo.config.GetHttpSessionConfig;
 import com.leo.websocketdemo.utils.MessageUtils;
-import com.leo.websocketdemo.websocket.Message;
+import com.leo.websocketdemo.websocket.pojo.Message;
 import org.springframework.stereotype.Component;
 
 import javax.servlet.http.HttpSession;
